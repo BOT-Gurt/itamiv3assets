@@ -1,2 +1,5 @@
 # temp download leftovers
 *.tmp
+
+# big binaries that belong in GitHub Releases, not the repo
+/release/
