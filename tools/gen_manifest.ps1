@@ -91,7 +91,8 @@ Get-ChildItem -LiteralPath $data -Recurse -File | Where-Object { $_.Name -ne '.g
 }
 
 # --- big files, published as release assets --------------------------------
-Get-ChildItem -LiteralPath $releaseDir -File | ForEach-Object {
+# release/ may be nested (e.g. release\maps, release\maps\vphys); scan recursively.
+Get-ChildItem -LiteralPath $releaseDir -Recurse -File | Where-Object { $_.Name -ne '.gitkeep' } | ForEach-Object {
     $dest = Map-ReleaseDest $_.Name
     $url  = "https://github.com/$User/$Repo/releases/download/$Tag/$([uri]::EscapeDataString($_.Name))"
     $entries += New-Entry "release/$($_.Name)" $_.FullName $dest $url

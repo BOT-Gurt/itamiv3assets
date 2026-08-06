@@ -1,6 +1,180 @@
 ﻿{
     "version":  1,
     "files":  [
-
+                  {
+                      "path":  "data/maps/cs_office.map",
+                      "dest":  "maps/cs_office.map",
+                      "size":  5641934,
+                      "sha256":  "694e90e5cf4b8b2612f099d50ae9f216e989f12ba5068b7eb04cbf466ea4a73a",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/cs_office.map"
+                  },
+                  {
+                      "path":  "data/maps/de_ancient.map",
+                      "dest":  "maps/de_ancient.map",
+                      "size":  54029254,
+                      "sha256":  "111639ff7db425f9591011d6e225c8b15edb2faec2ac65acdb22538a1c469d95",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/de_ancient.map"
+                  },
+                  {
+                      "path":  "data/maps/de_anubis.map",
+                      "dest":  "maps/de_anubis.map",
+                      "size":  28361134,
+                      "sha256":  "8203e451257d919cf0b209ab2bad044531197ae8cf0c542ddeb0d91fd7f0e9b7",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/de_anubis.map"
+                  },
+                  {
+                      "path":  "data/maps/de_cache.map",
+                      "dest":  "maps/de_cache.map",
+                      "size":  93853894,
+                      "sha256":  "2df8b855c3ecdc526bb635ba5ac84db67f15abc072160a204fef22aa4a83748a",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/de_cache.map"
+                  },
+                  {
+                      "path":  "data/maps/de_dust2.map",
+                      "dest":  "maps/de_dust2.map",
+                      "size":  19332494,
+                      "sha256":  "87a9773c9bb389c8ef0da362544e789d02695e4339211e23f6db8d8e82fc1c35",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/de_dust2.map"
+                  },
+                  {
+                      "path":  "data/maps/de_mirage.map",
+                      "dest":  "maps/de_mirage.map",
+                      "size":  6367374,
+                      "sha256":  "23e62852cc233a0d109ba8892adc80a9157bb0cc0bf88fad19542137a2fd90bf",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/de_mirage.map"
+                  },
+                  {
+                      "path":  "data/maps/de_nuke.map",
+                      "dest":  "maps/de_nuke.map",
+                      "size":  7837834,
+                      "sha256":  "b510294273af975d5c5ea1167c8748840cf3c5ba995386c81bee73754d9919ff",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/de_nuke.map"
+                  },
+                  {
+                      "path":  "data/maps/vphys/cs_office.vphys",
+                      "dest":  "maps/vphys/cs_office.vphys",
+                      "size":  34826772,
+                      "sha256":  "d6de7c778a88ce10fbe460114e8b3e89fafb2b2e4bdff8adbe12f8245164e66e",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/vphys/cs_office.vphys"
+                  },
+                  {
+                      "path":  "data/maps/vphys/de_mirage.vphys",
+                      "dest":  "maps/vphys/de_mirage.vphys",
+                      "size":  43488875,
+                      "sha256":  "b0eb3750d21ef82214bd8554b8185e3a7c5519fd0f3fd1c8f5e50f65724d341c",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/vphys/de_mirage.vphys"
+                  },
+                  {
+                      "path":  "data/maps/vphys/de_nuke.vphys",
+                      "dest":  "maps/vphys/de_nuke.vphys",
+                      "size":  63319155,
+                      "sha256":  "d9cb92c5ab0d57146412d4c61419fb33a7d4356ab49661066a98275ddcd8c120",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/vphys/de_nuke.vphys"
+                  },
+                  {
+                      "path":  "data/maps/vphys/de_vertigo.vphys",
+                      "dest":  "maps/vphys/de_vertigo.vphys",
+                      "size":  92650673,
+                      "sha256":  "c846899808ff23c01d13d40aa06321d79b11c88acad556cf71207f7c4efa85a2",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/maps/vphys/de_vertigo.vphys"
+                  },
+                  {
+                      "path":  "data/models/agents/ctm_sas/ctm_sas.bin",
+                      "dest":  "models/agents/ctm_sas/ctm_sas.bin",
+                      "size":  2175384,
+                      "sha256":  "1364b09233a2d1527aa14e7f4462980663d63a996f1400e3674a432cca7e15b6",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/ctm_sas/ctm_sas.bin"
+                  },
+                  {
+                      "path":  "data/models/agents/ctm_sas/ctm_sas.gltf",
+                      "dest":  "models/agents/ctm_sas/ctm_sas.gltf",
+                      "size":  297218,
+                      "sha256":  "496e65fc349efecc44fb56cd2887243d9fc5015a100cecab54685527481d79c2",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/ctm_sas/ctm_sas.gltf"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix.bin",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix.bin",
+                      "size":  2032064,
+                      "sha256":  "7699783af02542f14c2dc0af39e30302c30fda9f29b7bebcfc30eb589dba5e12",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix.bin"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix.gltf",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix.gltf",
+                      "size":  273598,
+                      "sha256":  "df22e8b97a7e4bfa49d5a6c9d1422443c635fc00701c66343c645187c55e0c08",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix.gltf"
+                  },
+                  {
+                      "path":  "release/de_inferno.map",
+                      "dest":  "maps/de_inferno.map",
+                      "size":  143068334,
+                      "sha256":  "5119286cb88e3555e6ec7fca59f18c22900d3687ca26517d80abcca8f35f669d",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_inferno.map"
+                  },
+                  {
+                      "path":  "release/cs_italy.vphys",
+                      "dest":  "maps/vphys/cs_italy.vphys",
+                      "size":  223207500,
+                      "sha256":  "8848304cb78641e92c6ae54b8860faccbd3e1318cd590a4652bb6e90526cfb38",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/cs_italy.vphys"
+                  },
+                  {
+                      "path":  "release/de_ancient.vphys",
+                      "dest":  "maps/vphys/de_ancient.vphys",
+                      "size":  132446401,
+                      "sha256":  "26d7be3786752574e43c971ea6887a0a27fcd34efc864fe656db0f8b95419c1b",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_ancient.vphys"
+                  },
+                  {
+                      "path":  "release/de_ancient_night.vphys",
+                      "dest":  "maps/vphys/de_ancient_night.vphys",
+                      "size":  133484394,
+                      "sha256":  "4df804619cea545037ebb0889332445e37875734634b2e88b3e15f4dcc55b35a",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_ancient_night.vphys"
+                  },
+                  {
+                      "path":  "release/de_anubis.vphys",
+                      "dest":  "maps/vphys/de_anubis.vphys",
+                      "size":  247346453,
+                      "sha256":  "8d022718cf9d404897bddb7f53455efed5d4f8fc81d7b35ddc77bc720b4e8df3",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_anubis.vphys"
+                  },
+                  {
+                      "path":  "release/de_cache.vphys",
+                      "dest":  "maps/vphys/de_cache.vphys",
+                      "size":  251181443,
+                      "sha256":  "34d009744374feb23f6272e9f527b6f8182060b9c172f88870a79b8d132871d8",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_cache.vphys"
+                  },
+                  {
+                      "path":  "release/de_dust2.vphys",
+                      "dest":  "maps/vphys/de_dust2.vphys",
+                      "size":  167157498,
+                      "sha256":  "58cc211b351eec962a48696f790c5629332abf1421cc48653345b02c9b3ba9ce",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_dust2.vphys"
+                  },
+                  {
+                      "path":  "release/de_inferno.vphys",
+                      "dest":  "maps/vphys/de_inferno.vphys",
+                      "size":  488666414,
+                      "sha256":  "6acfd5e638264af520ad3b57988c597c3081dca78f94745119fa9c58b477f6d6",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_inferno.vphys"
+                  },
+                  {
+                      "path":  "release/de_overpass.vphys",
+                      "dest":  "maps/vphys/de_overpass.vphys",
+                      "size":  110314749,
+                      "sha256":  "76be8e1f79335239281cc532a39392db6949223659eb46ec8c42b166c1f09301",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_overpass.vphys"
+                  },
+                  {
+                      "path":  "release/de_train.vphys",
+                      "dest":  "maps/vphys/de_train.vphys",
+                      "size":  293454579,
+                      "sha256":  "4a1e0b47fb32e6b99a71dcbf27d2fe37d404779367d25e22f0a8c7a13bda164b",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_train.vphys"
+                  }
               ]
 }
