@@ -1,0 +1,7 @@
+# all data files are raw binary - never apply line-ending conversion
+* -text
+
+# keep the tooling/readme readable
+tools/*.ps1 text
+README.md text
+.gitignore text
