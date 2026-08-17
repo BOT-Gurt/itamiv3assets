@@ -75,6 +75,15 @@ function Map-ReleaseDest([string]$name) {
     return $name
 }
 
+# dest for a release asset: keep the relative subpath under release/ (so
+# models land in %APPDATA%\cs2\models\... exactly like the data/ layout),
+# while the download URL uses the flat asset filename (GitHub releases are
+# flat by name).
+function Release-Dest([string]$relPath, [string]$relRoot) {
+    $rel = $relPath.Substring($relRoot.Length + 1).Replace('\', '/')
+    return $rel
+}
+
 $entries = @()
 $releaseFiles = @()
 $warnings = @()
@@ -91,11 +100,14 @@ Get-ChildItem -LiteralPath $data -Recurse -File | Where-Object { $_.Name -ne '.g
 }
 
 # --- big files, published as release assets --------------------------------
-# release/ may be nested (e.g. release\maps, release\maps\vphys); scan recursively.
+# release/ may be nested (e.g. release\maps, release\models\agents\...); scan
+# recursively. dest keeps the relative subpath so models install to
+# %APPDATA%\cs2\models\...; the URL uses the flat asset filename.
 Get-ChildItem -LiteralPath $releaseDir -Recurse -File | Where-Object { $_.Name -ne '.gitkeep' } | ForEach-Object {
-    $dest = Map-ReleaseDest $_.Name
+    $rel  = $_.FullName.Substring($releaseDir.Length + 1).Replace('\', '/')
+    $dest = Release-Dest $_.FullName $releaseDir
     $url  = "https://github.com/$User/$Repo/releases/download/$Tag/$([uri]::EscapeDataString($_.Name))"
-    $entries += New-Entry "release/$($_.Name)" $_.FullName $dest $url
+    $entries += New-Entry "release/$rel" $_.FullName $dest $url
     $releaseFiles += $_.FullName
 }
 
