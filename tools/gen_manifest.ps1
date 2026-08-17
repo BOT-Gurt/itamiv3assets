@@ -100,7 +100,8 @@ Get-ChildItem -LiteralPath $releaseDir -Recurse -File | Where-Object { $_.Name -
 }
 
 $manifest = [ordered]@{ version = 1; files = $entries }
-Set-Content -LiteralPath $manifestPath -Value ($manifest | ConvertTo-Json -Depth 4) -Encoding UTF8
+$json = $manifest | ConvertTo-Json -Depth 4
+[System.IO.File]::WriteAllText($manifestPath, $json, (New-Object System.Text.UTF8Encoding($false)))
 
 Write-Host ""
 Write-Host "manifest.json written: $manifestPath  (user=$User repo=$Repo tag=$Tag)"

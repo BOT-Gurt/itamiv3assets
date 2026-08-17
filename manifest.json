@@ -93,6 +93,48 @@
                       "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/ctm_sas/ctm_sas.gltf"
                   },
                   {
+                      "path":  "data/models/agents/tm_phoenix/bare_arm_133_color_psd_5b76e0cf.png",
+                      "dest":  "models/agents/tm_phoenix/bare_arm_133_color_psd_5b76e0cf.png",
+                      "size":  1777219,
+                      "sha256":  "2a736c6f8d93a0981cd8a842de6bcd4e21b8914a1e438b979f2c13bdab6520bd",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/bare_arm_133_color_psd_5b76e0cf.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/bare_arm_133_vmat_g_tambientocclusion_9782fd5c_orm_1851347813.png",
+                      "dest":  "models/agents/tm_phoenix/bare_arm_133_vmat_g_tambientocclusion_9782fd5c_orm_1851347813.png",
+                      "size":  101,
+                      "sha256":  "d44d0bce4e4ba8ee8d0cdf09ad70a7ac62d880458de20ad9a9f0b5408c74ee61",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/bare_arm_133_vmat_g_tambientocclusion_9782fd5c_orm_1851347813.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/bare_arm_normal_tga_c9fefc2d.png",
+                      "dest":  "models/agents/tm_phoenix/bare_arm_normal_tga_c9fefc2d.png",
+                      "size":  1762399,
+                      "sha256":  "017ae237b867bebb6a09caf1c0d11eb9f63425beffd503cd1879aed9d9f470df",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/bare_arm_normal_tga_c9fefc2d.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/glove_fullfinger_ao_psd_37541d21_orm_1139827744.png",
+                      "dest":  "models/agents/tm_phoenix/glove_fullfinger_ao_psd_37541d21_orm_1139827744.png",
+                      "size":  1266007,
+                      "sha256":  "78a165021b4c05e84e304f01aed4b5ffdeb49901bb30bd78cab5b143e9d09ec9",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/glove_fullfinger_ao_psd_37541d21_orm_1139827744.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/glove_fullfinger_color_psd_935f70c2.png",
+                      "dest":  "models/agents/tm_phoenix/glove_fullfinger_color_psd_935f70c2.png",
+                      "size":  3210883,
+                      "sha256":  "841cc3b7ef3fbdbf00f4ab2e3a36f01a4189e4eb85d41cf6f58589d634681cec",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/glove_fullfinger_color_psd_935f70c2.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/glove_fullfinger_normal_tga_c013e034.png",
+                      "dest":  "models/agents/tm_phoenix/glove_fullfinger_normal_tga_c013e034.png",
+                      "size":  6539550,
+                      "sha256":  "7f663ba5f7b9221b6dfca3ef9945d4b61a3e06ade28c56c893b78f7d8187a50d",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/glove_fullfinger_normal_tga_c013e034.png"
+                  },
+                  {
                       "path":  "data/models/agents/tm_phoenix/tm_phoenix.bin",
                       "dest":  "models/agents/tm_phoenix/tm_phoenix.bin",
                       "size":  2032064,
@@ -107,74 +149,158 @@
                       "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix.gltf"
                   },
                   {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix_body_normal_psd_bdeb78fa.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_body_normal_psd_bdeb78fa.png",
+                      "size":  3789072,
+                      "sha256":  "11198dba099fad966bde74e983c089b6fb3240e2e89a78bebe12f1ba7cd28ca6",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix_body_normal_psd_bdeb78fa.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix_legs_ao_psd_d67a962e_orm_2458679251.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_legs_ao_psd_d67a962e_orm_2458679251.png",
+                      "size":  635081,
+                      "sha256":  "96d663a0de6c29cc662e38a7b84f2ec6020817e16b882ec6bc2ab0fc65601e5b",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix_legs_ao_psd_d67a962e_orm_2458679251.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix_legs_normal_psd_881fe0ed.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_legs_normal_psd_881fe0ed.png",
+                      "size":  2133486,
+                      "sha256":  "95f647ed83d6a1368346dd01a5eaffefaecae727484cb41c8f93e456b46bdd98",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix_legs_normal_psd_881fe0ed.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_cloth_psd_4adffbf0_orm_258026592.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_balaclava_cloth_psd_4adffbf0_orm_258026592.png",
+                      "size":  504475,
+                      "sha256":  "49328882da17f16837b92fb300dbd2dc2ab39376b191413c31012abd8dea4861",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_cloth_psd_4adffbf0_orm_258026592.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_normal_psd_d991e591.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_balaclava_normal_psd_d991e591.png",
+                      "size":  1195336,
+                      "sha256":  "c79e68e501b01e0448c6a84a2eff289da14f9fe4b40f62135134e971dc122c96",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_normal_psd_d991e591.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_varianta_color_psd_3019cf96.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_balaclava_varianta_color_psd_3019cf96.png",
+                      "size":  1203374,
+                      "sha256":  "57adbdd46d4f500a2f32c48f0fa04bfcdbba2828cbd2035a53fc99a3bcb31241",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_varianta_color_psd_3019cf96.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix_v2_body_ao_psd_3f117e67_orm_1554291442.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_body_ao_psd_3f117e67_orm_1554291442.png",
+                      "size":  2497913,
+                      "sha256":  "9710e661b9c5f838c08bb851dd3c12a0a9741b8cff07a43560ad79b64e828b25",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix_v2_body_ao_psd_3f117e67_orm_1554291442.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix_v2_body_variante_color_psd_a036cb51.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_body_variante_color_psd_a036cb51.png",
+                      "size":  5288328,
+                      "sha256":  "daa290b8adbbf5cf5562a24e722f3f567ffacc46d731229b1978f9a707cd4db1",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix_v2_body_variante_color_psd_a036cb51.png"
+                  },
+                  {
+                      "path":  "data/models/agents/tm_phoenix/tm_phoenix_v2_legs_variantb_color_psd_74802a99.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_legs_variantb_color_psd_74802a99.png",
+                      "size":  1592946,
+                      "sha256":  "87bf6432562bfadc13650ba57c1723446de7cdcaab3b6c204ff6093455da1d89",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/agents/tm_phoenix/tm_phoenix_v2_legs_variantb_color_psd_74802a99.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/ak47_ao_psd_286fb1af_orm_2165450181.png",
+                      "dest":  "models/weapons/ak47/ak47_ao_psd_286fb1af_orm_2165450181.png",
+                      "size":  4743793,
+                      "sha256":  "d3bd50234e5f721625552047f38006b1e0700d4d1a0b1af8730cc2de2880004b",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/ak47_ao_psd_286fb1af_orm_2165450181.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/ak47_color_psd_1f318532.png",
+                      "dest":  "models/weapons/ak47/ak47_color_psd_1f318532.png",
+                      "size":  4089597,
+                      "sha256":  "ce66eac99ec318595a98772cd37377df72fadadb3bc3b24dc1562db29cd13259",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/ak47_color_psd_1f318532.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/ak47_default_ao_png_b00f6e2e_orm_1322888879.png",
+                      "dest":  "models/weapons/ak47/ak47_default_ao_png_b00f6e2e_orm_1322888879.png",
+                      "size":  18746916,
+                      "sha256":  "e00e514c2e184bc9894dab61d5df02e4ed4e707aa938b7ede2b8376da9affc3d",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/ak47_default_ao_png_b00f6e2e_orm_1322888879.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/ak47_default_color_psd_5b66a23b.png",
+                      "dest":  "models/weapons/ak47/ak47_default_color_psd_5b66a23b.png",
+                      "size":  16433591,
+                      "sha256":  "d55e82e27b47ebe0c85edf06ec53beae6746d7e64cb64f265787ff11f10dc214",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/ak47_default_color_psd_5b66a23b.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/ak47_default_normal_png_c8c5793e.png",
+                      "dest":  "models/weapons/ak47/ak47_default_normal_png_c8c5793e.png",
+                      "size":  17005775,
+                      "sha256":  "24cd7a276d1b2ccb1410db28851a92bdb3a62bdd080d5a30aa05e526ecb0a409",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/ak47_default_normal_png_c8c5793e.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/ak47_normal_psd_57f37ac9.png",
+                      "dest":  "models/weapons/ak47/ak47_normal_psd_57f37ac9.png",
+                      "size":  3938270,
+                      "sha256":  "44f27593dfe3bedcf3eeebdd388c9aeb9a2f79be746aadb82da6a9c28a32432e",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/ak47_normal_psd_57f37ac9.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/default_ao_tga_559f1ac6_orm_289720758.png",
+                      "dest":  "models/weapons/ak47/default_ao_tga_559f1ac6_orm_289720758.png",
+                      "size":  84,
+                      "sha256":  "d6c61241bbeca655b92f3b26d627b7ae3a1b13dd6967de0fbd533987ff1a0e14",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/default_ao_tga_559f1ac6_orm_289720758.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/default_normal_tga_4fc2d3dd.png",
+                      "dest":  "models/weapons/ak47/default_normal_tga_4fc2d3dd.png",
+                      "size":  84,
+                      "sha256":  "c9c25b8c7b6088cbe5102eacbd1c8557d9ceb77727766a42a3aa22a084f76a9c",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/default_normal_tga_4fc2d3dd.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/physics_weaponrifle.png",
+                      "dest":  "models/weapons/ak47/physics_weaponrifle.png",
+                      "size":  3672,
+                      "sha256":  "ec1e8acfd256d2942435b49011a157994556d6d4d48cf879ebbbd353b072ac8a",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/physics_weaponrifle.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/sticker_gaps_vmat_g_tcolor_44181499.png",
+                      "dest":  "models/weapons/ak47/sticker_gaps_vmat_g_tcolor_44181499.png",
+                      "size":  84,
+                      "sha256":  "1896f9c6deff5acfdcc678224f14c8b6868b246f16a299864770c19c9daa5c88",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/sticker_gaps_vmat_g_tcolor_44181499.png"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/weapon_rif_ak47.bin",
+                      "dest":  "models/weapons/ak47/weapon_rif_ak47.bin",
+                      "size":  3233196,
+                      "sha256":  "fefe57fc93a3ca319e2d5ee56eb8ba44d13dab1865d73280b0feafd4fa262070",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/weapon_rif_ak47.bin"
+                  },
+                  {
+                      "path":  "data/models/weapons/ak47/weapon_rif_ak47.gltf",
+                      "dest":  "models/weapons/ak47/weapon_rif_ak47.gltf",
+                      "size":  69111,
+                      "sha256":  "2b2be832552ff2ed431ced852ec004d0d76c0e571310c11636834cf9a7fbf5e0",
+                      "url":  "https://raw.githubusercontent.com/BOT-Gurt/itamiv3assets/main/data/models/weapons/ak47/weapon_rif_ak47.gltf"
+                  },
+                  {
                       "path":  "release/de_inferno.map",
                       "dest":  "maps/de_inferno.map",
                       "size":  143068334,
                       "sha256":  "5119286cb88e3555e6ec7fca59f18c22900d3687ca26517d80abcca8f35f669d",
                       "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_inferno.map"
-                  },
-                  {
-                      "path":  "release/cs_italy.vphys",
-                      "dest":  "maps/vphys/cs_italy.vphys",
-                      "size":  223207500,
-                      "sha256":  "8848304cb78641e92c6ae54b8860faccbd3e1318cd590a4652bb6e90526cfb38",
-                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/cs_italy.vphys"
-                  },
-                  {
-                      "path":  "release/de_ancient.vphys",
-                      "dest":  "maps/vphys/de_ancient.vphys",
-                      "size":  132446401,
-                      "sha256":  "26d7be3786752574e43c971ea6887a0a27fcd34efc864fe656db0f8b95419c1b",
-                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_ancient.vphys"
-                  },
-                  {
-                      "path":  "release/de_ancient_night.vphys",
-                      "dest":  "maps/vphys/de_ancient_night.vphys",
-                      "size":  133484394,
-                      "sha256":  "4df804619cea545037ebb0889332445e37875734634b2e88b3e15f4dcc55b35a",
-                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_ancient_night.vphys"
-                  },
-                  {
-                      "path":  "release/de_anubis.vphys",
-                      "dest":  "maps/vphys/de_anubis.vphys",
-                      "size":  247346453,
-                      "sha256":  "8d022718cf9d404897bddb7f53455efed5d4f8fc81d7b35ddc77bc720b4e8df3",
-                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_anubis.vphys"
-                  },
-                  {
-                      "path":  "release/de_cache.vphys",
-                      "dest":  "maps/vphys/de_cache.vphys",
-                      "size":  251181443,
-                      "sha256":  "34d009744374feb23f6272e9f527b6f8182060b9c172f88870a79b8d132871d8",
-                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_cache.vphys"
-                  },
-                  {
-                      "path":  "release/de_dust2.vphys",
-                      "dest":  "maps/vphys/de_dust2.vphys",
-                      "size":  167157498,
-                      "sha256":  "58cc211b351eec962a48696f790c5629332abf1421cc48653345b02c9b3ba9ce",
-                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_dust2.vphys"
-                  },
-                  {
-                      "path":  "release/de_inferno.vphys",
-                      "dest":  "maps/vphys/de_inferno.vphys",
-                      "size":  488666414,
-                      "sha256":  "6acfd5e638264af520ad3b57988c597c3081dca78f94745119fa9c58b477f6d6",
-                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_inferno.vphys"
-                  },
-                  {
-                      "path":  "release/de_overpass.vphys",
-                      "dest":  "maps/vphys/de_overpass.vphys",
-                      "size":  110314749,
-                      "sha256":  "76be8e1f79335239281cc532a39392db6949223659eb46ec8c42b166c1f09301",
-                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_overpass.vphys"
-                  },
-                  {
-                      "path":  "release/de_train.vphys",
-                      "dest":  "maps/vphys/de_train.vphys",
-                      "size":  293454579,
-                      "sha256":  "4a1e0b47fb32e6b99a71dcbf27d2fe37d404779367d25e22f0a8c7a13bda164b",
-                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v1/de_train.vphys"
                   }
               ]
 }
