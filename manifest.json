@@ -217,6 +217,888 @@
                       "size":  69111,
                       "sha256":  "2b2be832552ff2ed431ced852ec004d0d76c0e571310c11636834cf9a7fbf5e0",
                       "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_ak47.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/c4/weapon_c4.bin",
+                      "dest":  "models/weapons/c4/weapon_c4.bin",
+                      "size":  1366364,
+                      "sha256":  "e4bf54ee7741ab4c8b8a2d20a3d3ecf3021e171f11639156a8f76b613238fb80",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_c4.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/c4/weapon_c4.gltf",
+                      "dest":  "models/weapons/c4/weapon_c4.gltf",
+                      "size":  33480,
+                      "sha256":  "b3a437eb010c9b08114c6382f4494e0dad7043112062abc2eaa24f9a02abe44c",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_c4.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_decoy.bin",
+                      "dest":  "models/weapons/grenades/weapon_decoy.bin",
+                      "size":  821340,
+                      "sha256":  "4ab34c713985e46f5f3937ed7bac34d95b5e9d38e0d9cd0f38a5cd643e98c844",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_decoy.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_decoy.gltf",
+                      "dest":  "models/weapons/grenades/weapon_decoy.gltf",
+                      "size":  34759,
+                      "sha256":  "e512e0425bf6f23e129e73d952a0ebd6aa3856ba7809ddbb0630c370e551c6e4",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_decoy.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_flashbang.bin",
+                      "dest":  "models/weapons/grenades/weapon_flashbang.bin",
+                      "size":  821340,
+                      "sha256":  "07887df12622e74b024e5858d6a57ed5bece888ff3a4b077bb4babfa77927bab",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_flashbang.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_flashbang.gltf",
+                      "dest":  "models/weapons/grenades/weapon_flashbang.gltf",
+                      "size":  34805,
+                      "sha256":  "32ff67602547fb3532509f4c447ffb6bf053f66e63c9200a5764f8918e9bbd83",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_flashbang.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_hegrenade.bin",
+                      "dest":  "models/weapons/grenades/weapon_hegrenade.bin",
+                      "size":  669848,
+                      "sha256":  "e3020d232d15aa8f4163cc38dcdbc1388704ce89342fce4a71f4861536b0066a",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_hegrenade.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_hegrenade.gltf",
+                      "dest":  "models/weapons/grenades/weapon_hegrenade.gltf",
+                      "size":  34697,
+                      "sha256":  "bd0a2b92ed128085abbcb7830b96a0977a2e22f076e3a14b515d951dbfb72fff",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_hegrenade.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_incendiarygrenade.bin",
+                      "dest":  "models/weapons/grenades/weapon_incendiarygrenade.bin",
+                      "size":  756924,
+                      "sha256":  "89d91a796c608175b344d056eb42c7c65b635dd407f3d2efc788797d65053996",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_incendiarygrenade.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_incendiarygrenade.gltf",
+                      "dest":  "models/weapons/grenades/weapon_incendiarygrenade.gltf",
+                      "size":  34981,
+                      "sha256":  "61610738362eaf4272b19a4374f4b77ecd7b542f3f7865e1f3a0d260d9900667",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_incendiarygrenade.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_molotov.bin",
+                      "dest":  "models/weapons/grenades/weapon_molotov.bin",
+                      "size":  612800,
+                      "sha256":  "a40e9a99ad0815194f12ad54575f9c4d2a7a46028fe0e853c333bd7031446324",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_molotov.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_molotov.gltf",
+                      "dest":  "models/weapons/grenades/weapon_molotov.gltf",
+                      "size":  81833,
+                      "sha256":  "23369f000407c803c581e2833b6fbce87ba5b07dedc0914dff24c259faa1798c",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_molotov.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_smokegrenade.bin",
+                      "dest":  "models/weapons/grenades/weapon_smokegrenade.bin",
+                      "size":  756924,
+                      "sha256":  "806f0ab4a517444463d2ed1e9ff819d976b531e2e1ec181684ee07fe3960bedc",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smokegrenade.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/grenades/weapon_smokegrenade.gltf",
+                      "dest":  "models/weapons/grenades/weapon_smokegrenade.gltf",
+                      "size":  34980,
+                      "sha256":  "0d32ca806657acda9de117840a310e30380d68e075dd7d1bb857bc5c08bc7251",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smokegrenade.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_mach_m249.bin",
+                      "dest":  "models/weapons/guns/weapon_mach_m249.bin",
+                      "size":  7188304,
+                      "sha256":  "098734bc16cccf301291c1d96aacc022628be5ef6037ed908f5217457f2e6f09",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_mach_m249.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_mach_m249.gltf",
+                      "dest":  "models/weapons/guns/weapon_mach_m249.gltf",
+                      "size":  265277,
+                      "sha256":  "a21fe0ea4225cf0a285e921fde9b47f416f7ac5ff4783f88fe74b22cf32db88e",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_mach_m249.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_mach_negev.bin",
+                      "dest":  "models/weapons/guns/weapon_mach_negev.bin",
+                      "size":  7872208,
+                      "sha256":  "19848726e54c33471cd365e74f5ea8d13d9fd8070c7547251c37dc9c4a02a9c2",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_mach_negev.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_mach_negev.gltf",
+                      "dest":  "models/weapons/guns/weapon_mach_negev.gltf",
+                      "size":  280748,
+                      "sha256":  "45ac5f88ab25bb6430ca62afbcec63035dcc1814cf10cd26d1945bc00ecabdac",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_mach_negev.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_cz75a.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_cz75a.bin",
+                      "size":  3655348,
+                      "sha256":  "dbf2156ce49456c5c90392b5533a419cb3912c0056b9737eef6d4c44aee969c2",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_cz75a.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_cz75a.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_cz75a.gltf",
+                      "size":  76814,
+                      "sha256":  "9ed191bd3c37acd6922023ca1641d72c806158a226373e6849aae731ccb356fd",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_cz75a.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_deagle.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_deagle.bin",
+                      "size":  2392448,
+                      "sha256":  "f449ef8129d0e5a3c4131af2baac76bfd4d1ed25170332757c2a91359908869d",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_deagle.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_deagle.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_deagle.gltf",
+                      "size":  69262,
+                      "sha256":  "1160a85a19a491fe4ea2e119d93fcd534ccb3fa11979ed573b207e90a7e5c50d",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_deagle.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_elite.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_elite.bin",
+                      "size":  4801424,
+                      "sha256":  "0fda8337f5d80bb44b70ea6220b408c4fc70a7bca72e454bec5e61400c30660c",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_elite.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_elite.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_elite.gltf",
+                      "size":  165761,
+                      "sha256":  "be35d186c627a856269559df10e06257d59e62dda879ef3d6988dcd92b45ef7a",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_elite.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_fiveseven.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_fiveseven.bin",
+                      "size":  2927956,
+                      "sha256":  "1ab56f2a4501667d6f0711d227e9effb40fcca613d2e62d0d3cd4bc9d39a2ed8",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_fiveseven.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_fiveseven.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_fiveseven.gltf",
+                      "size":  61267,
+                      "sha256":  "230504644beeaa0402a26d17772aeb3c2d81d4769b89600f9c4ce75856c8ae50",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_fiveseven.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_glock18.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_glock18.bin",
+                      "size":  1529444,
+                      "sha256":  "5991fb57038adf371655634d27c4baea561446a4a7859fc57117a4de0433a5fb",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_glock18.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_glock18.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_glock18.gltf",
+                      "size":  61239,
+                      "sha256":  "3eedbead04c28da4b3bf2b0786d3cc9c8aacee006084819a5f53b168e3213a03",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_glock18.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_hkp2000.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_hkp2000.bin",
+                      "size":  2550056,
+                      "sha256":  "f936626e0be1741a2f9e7f911899e84c7e67d1881623c6915494dfb75af25bfd",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_hkp2000.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_hkp2000.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_hkp2000.gltf",
+                      "size":  68886,
+                      "sha256":  "dc734fb43501ab4bda1a9183a5d3757b821cccb4eef22aede16e6eba1282fff2",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_hkp2000.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_p250.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_p250.bin",
+                      "size":  2245364,
+                      "sha256":  "882e073f33e629db4acd3bfb5c06e666821cde522eb2f68fedddaaa1871f7906",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_p250.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_p250.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_p250.gltf",
+                      "size":  68900,
+                      "sha256":  "034a888b310e5842c56500418b0a13905ac952f9e5f996f0207c50fc5bd062ff",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_p250.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_revolver.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_revolver.bin",
+                      "size":  3718016,
+                      "sha256":  "b4b9e530ae810bae7ffc02b60a35938d592e81e495f221cbd2374a4e49967b05",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_revolver.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_revolver.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_revolver.gltf",
+                      "size":  139923,
+                      "sha256":  "dde001a2ec92167dfde52d8eb5f1c195681ba2285181e6db7f88ae9c638cad08",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_revolver.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_tec9.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_tec9.bin",
+                      "size":  2343640,
+                      "sha256":  "6e5d2f8203df53d008e27460451531d4549e8c96eacf136eeb4ca7e7aade4afc",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_tec9.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_tec9.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_tec9.gltf",
+                      "size":  53471,
+                      "sha256":  "faf4227ef52cc321a8a4c832f3ea7791449b50761a5d5a1202fbeb186404ec15",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_tec9.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_usp_silencer.bin",
+                      "dest":  "models/weapons/guns/weapon_pist_usp_silencer.bin",
+                      "size":  2647396,
+                      "sha256":  "4a4fccbf331e875f5922720365d9bfe0288d3c3181938907f4a68a90e6300def",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_usp_silencer.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_pist_usp_silencer.gltf",
+                      "dest":  "models/weapons/guns/weapon_pist_usp_silencer.gltf",
+                      "size":  88217,
+                      "sha256":  "df5939d45188781a2cdcef09e67fa789df0feb8439c0941a53f566cfc8f7c9a8",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_usp_silencer.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_aug.bin",
+                      "dest":  "models/weapons/guns/weapon_rif_aug.bin",
+                      "size":  4883496,
+                      "sha256":  "a006f4a3baf7c056dfe78a756c12e6f3725fff8245a738613b2aafd6ce864473",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_aug.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_aug.gltf",
+                      "dest":  "models/weapons/guns/weapon_rif_aug.gltf",
+                      "size":  61214,
+                      "sha256":  "d616f8084c149855214baf64b5b289bf3b3a987280d437ba96b2ccd4a8f718cf",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_aug.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_famas.bin",
+                      "dest":  "models/weapons/guns/weapon_rif_famas.bin",
+                      "size":  3555868,
+                      "sha256":  "bcedc0ac9a26fae04d50d01d52f69e4958e67f1e3dd9df1cd56655cd54dc5d70",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_famas.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_famas.gltf",
+                      "dest":  "models/weapons/guns/weapon_rif_famas.gltf",
+                      "size":  53143,
+                      "sha256":  "fd0a6b6772153005590a69609d42cdf0fca24c4b5b17c7281ca55c369b576bc1",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_famas.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_galilar.bin",
+                      "dest":  "models/weapons/guns/weapon_rif_galilar.bin",
+                      "size":  4181984,
+                      "sha256":  "f0ebeeb9240aadf1f5b12309fbdbe8e29828c6ad73fe1149d34c714e812dd81c",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_galilar.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_galilar.gltf",
+                      "dest":  "models/weapons/guns/weapon_rif_galilar.gltf",
+                      "size":  60251,
+                      "sha256":  "188a8e71ca9a63757c6a68693712da4f2e563d313a1cb39fcb39b9754dfc1ea5",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_galilar.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_m4a1_silencer.bin",
+                      "dest":  "models/weapons/guns/weapon_rif_m4a1_silencer.bin",
+                      "size":  6011296,
+                      "sha256":  "56d97084b9179e2a8a6494b8335a7f9f00c533ed78b6f19c21a043a81cacd24c",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_m4a1_silencer.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_m4a1_silencer.gltf",
+                      "dest":  "models/weapons/guns/weapon_rif_m4a1_silencer.gltf",
+                      "size":  69160,
+                      "sha256":  "d435203e01866701d68a211ec41aeb68a445668e2fe2f65072f974e8a26c6971",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_m4a1_silencer.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_m4a4.bin",
+                      "dest":  "models/weapons/guns/weapon_rif_m4a4.bin",
+                      "size":  5469212,
+                      "sha256":  "682cf2aaadcdf857c24688d693177208a028cdbf2f757b49c3b9eb0d220cb570",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_m4a4.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_m4a4.gltf",
+                      "dest":  "models/weapons/guns/weapon_rif_m4a4.gltf",
+                      "size":  59725,
+                      "sha256":  "c3e50550e861313c36d13d44b85c7f15b6235761478c4dcc4cfd7e10e546813c",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_m4a4.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_sg556.bin",
+                      "dest":  "models/weapons/guns/weapon_rif_sg556.bin",
+                      "size":  5771536,
+                      "sha256":  "1868b7aa6a048239022582e5ea4f403115746e8e2edcc31427d24a6a2f2876e5",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_sg556.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_rif_sg556.gltf",
+                      "dest":  "models/weapons/guns/weapon_rif_sg556.gltf",
+                      "size":  56200,
+                      "sha256":  "64cdd7b7a02d2ee437ed609d48d7dc027d2b4696937fea64971b4ec26dc0d87a",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_rif_sg556.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_shot_mag7.bin",
+                      "dest":  "models/weapons/guns/weapon_shot_mag7.bin",
+                      "size":  2520140,
+                      "sha256":  "e0836159469527de3b8cb1d0055eae07be4680d92de093f838eb9f4a1dacc8f4",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_shot_mag7.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_shot_mag7.gltf",
+                      "dest":  "models/weapons/guns/weapon_shot_mag7.gltf",
+                      "size":  53926,
+                      "sha256":  "9d3c946b9b1cfbb27986f8cb27fca68089f4c9830fe5d96a4a4a747a47b9d62d",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_shot_mag7.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_shot_nova.bin",
+                      "dest":  "models/weapons/guns/weapon_shot_nova.bin",
+                      "size":  3383500,
+                      "sha256":  "b5e335d9de916dbbdb073655f7fecb4347f12d96015f1f98c935dcea671b8a36",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_shot_nova.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_shot_nova.gltf",
+                      "dest":  "models/weapons/guns/weapon_shot_nova.gltf",
+                      "size":  64662,
+                      "sha256":  "4648740b59096e8f9cd67d9a07bb9bcf381ed5da82fd9b42120d41fd27841cbf",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_shot_nova.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_shot_sawedoff.bin",
+                      "dest":  "models/weapons/guns/weapon_shot_sawedoff.bin",
+                      "size":  1418048,
+                      "sha256":  "31b6a96c1db3b18408cb24e040f7f20e74bbbdff4c6ed57a0349082db7f2d2db",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_shot_sawedoff.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_shot_sawedoff.gltf",
+                      "dest":  "models/weapons/guns/weapon_shot_sawedoff.gltf",
+                      "size":  56897,
+                      "sha256":  "573ed741bf3b7dad8f510f9d227e382bb31e5466c57ac20581ea06101f82f355",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_shot_sawedoff.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_shot_xm1014.bin",
+                      "dest":  "models/weapons/guns/weapon_shot_xm1014.bin",
+                      "size":  4710148,
+                      "sha256":  "4a63be326227339dae94a163478685310d53af2615bf49ac0c63a5b8e3a43a0c",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_shot_xm1014.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_shot_xm1014.gltf",
+                      "dest":  "models/weapons/guns/weapon_shot_xm1014.gltf",
+                      "size":  67141,
+                      "sha256":  "4bd4565dc290efdcfff14868ba967004aaf0723f44ac93ad94128733848d2d47",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_shot_xm1014.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_bizon.bin",
+                      "dest":  "models/weapons/guns/weapon_smg_bizon.bin",
+                      "size":  3726680,
+                      "sha256":  "efa254a6d5a62f4680dd1d95420c719067b745e0a32c4b35e3f65fe9c4a34646",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_bizon.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_bizon.gltf",
+                      "dest":  "models/weapons/guns/weapon_smg_bizon.gltf",
+                      "size":  53563,
+                      "sha256":  "0aa0aa161974f0aeed32f9be0d2d9820df0ba311ab9045510afda4e07b09ac37",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_bizon.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_mac10.bin",
+                      "dest":  "models/weapons/guns/weapon_smg_mac10.bin",
+                      "size":  2691648,
+                      "sha256":  "0683ecded50a89f140225b724cfc37f6218624ab1d90afd1ab987fb1d5cf7103",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_mac10.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_mac10.gltf",
+                      "dest":  "models/weapons/guns/weapon_smg_mac10.gltf",
+                      "size":  152207,
+                      "sha256":  "3ef43cad238ec8bebacd2714e8fe006b84f0a1004cb424cbb52b19e83a1687c4",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_mac10.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_mp5sd.bin",
+                      "dest":  "models/weapons/guns/weapon_smg_mp5sd.bin",
+                      "size":  4522576,
+                      "sha256":  "c06da58be3836cd8d0ca5077080d752fe919fd8bec011ab74358079dce06e297",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_mp5sd.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_mp5sd.gltf",
+                      "dest":  "models/weapons/guns/weapon_smg_mp5sd.gltf",
+                      "size":  53512,
+                      "sha256":  "a6e9fa279f7d224072f940f430f82d600d114752e14526f75884ea15f3e52313",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_mp5sd.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_mp7.bin",
+                      "dest":  "models/weapons/guns/weapon_smg_mp7.bin",
+                      "size":  4213336,
+                      "sha256":  "e3ff8fb1d3c2632c58668f7780b9b9eb317de94793727dbd7c77ea220b9895f4",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_mp7.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_mp7.gltf",
+                      "dest":  "models/weapons/guns/weapon_smg_mp7.gltf",
+                      "size":  53388,
+                      "sha256":  "5d6980ef984a7103450bf906accfdee40c58954e01b0d9cb7097bf48079f5b15",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_mp7.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_mp9.bin",
+                      "dest":  "models/weapons/guns/weapon_smg_mp9.bin",
+                      "size":  3842052,
+                      "sha256":  "7798982bcc0ccda4d98cf98cbfbaf781a0261f80c8856b0949b95c3fbfdf58c5",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_mp9.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_mp9.gltf",
+                      "dest":  "models/weapons/guns/weapon_smg_mp9.gltf",
+                      "size":  53550,
+                      "sha256":  "a27337bd8c09b8103fb419c73d54d62058a947d3bdae89502ed7a97333d56bd5",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_mp9.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_p90.bin",
+                      "dest":  "models/weapons/guns/weapon_smg_p90.bin",
+                      "size":  3387776,
+                      "sha256":  "f49ce8b0d3945a8527c9f0cee02438a1f15498cb4a738a3b38a3a2eaaa7fe676",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_p90.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_p90.gltf",
+                      "dest":  "models/weapons/guns/weapon_smg_p90.gltf",
+                      "size":  59919,
+                      "sha256":  "c4afb1804764566a17e691dfa991e257215fedd9afbf5a8ddac0c0edc37af30e",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_p90.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_ump45.bin",
+                      "dest":  "models/weapons/guns/weapon_smg_ump45.bin",
+                      "size":  3768672,
+                      "sha256":  "f1343fee03dffd9cccc2e18964d7b3bf53eb08663956fef13e3d6e14388d7afc",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_ump45.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_smg_ump45.gltf",
+                      "dest":  "models/weapons/guns/weapon_smg_ump45.gltf",
+                      "size":  66736,
+                      "sha256":  "ce32cfce6625eee62ca491a4c8d72d48f8d33fe11e30a789865e928d4652b9ed",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_smg_ump45.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_snip_awp.bin",
+                      "dest":  "models/weapons/guns/weapon_snip_awp.bin",
+                      "size":  5257268,
+                      "sha256":  "10dff19d7af251fd3433b09776d293f8d50eb1006b2360a87b80e6d29b403900",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_snip_awp.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_snip_awp.gltf",
+                      "dest":  "models/weapons/guns/weapon_snip_awp.gltf",
+                      "size":  61867,
+                      "sha256":  "6e9262c4c36d7ae5b12948e24beb75f594b96ef98ba403407f68a5afeb659441",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_snip_awp.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_snip_g3sg1.bin",
+                      "dest":  "models/weapons/guns/weapon_snip_g3sg1.bin",
+                      "size":  5015860,
+                      "sha256":  "055db3d6b004535d8032181d620530c6d19222bf251a2077b5e7e32f9ee8d4d7",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_snip_g3sg1.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_snip_g3sg1.gltf",
+                      "dest":  "models/weapons/guns/weapon_snip_g3sg1.gltf",
+                      "size":  74983,
+                      "sha256":  "e10bffeafa670b0ce087b803c13e494f67c83aad6d9ed5dfffd9bd35f985db52",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_snip_g3sg1.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_snip_scar20.bin",
+                      "dest":  "models/weapons/guns/weapon_snip_scar20.bin",
+                      "size":  5832540,
+                      "sha256":  "2b5b53d63166b76a153827926a8d720266b6c59f0920ab011de0d7cd8fb510c6",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_snip_scar20.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_snip_scar20.gltf",
+                      "dest":  "models/weapons/guns/weapon_snip_scar20.gltf",
+                      "size":  56045,
+                      "sha256":  "59f02f7eaa46f7809c9676ce34b9ddcbfa65eae126f22e0ca6ee1023f499bba5",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_snip_scar20.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_snip_ssg08.bin",
+                      "dest":  "models/weapons/guns/weapon_snip_ssg08.bin",
+                      "size":  7716736,
+                      "sha256":  "54bc75349b8137f37ce56a23ac8baecf22728020d6f3c9bb6bec4f2e0dde56f1",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_snip_ssg08.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/guns/weapon_snip_ssg08.gltf",
+                      "dest":  "models/weapons/guns/weapon_snip_ssg08.gltf",
+                      "size":  64087,
+                      "sha256":  "d7921b5b823df43593322d8adba611f4e7c37f50096bffcfb85441692ec0f137",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_snip_ssg08.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_bayonet.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_bayonet.bin",
+                      "size":  182016,
+                      "sha256":  "7693b054fb0cbedb48cb4edf2d99f8f197c0784216847a6e43b2ca63894e2260",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_bayonet.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_bayonet.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_bayonet.gltf",
+                      "size":  11922,
+                      "sha256":  "0dbd4aea13ae62e87c59a8f137f209d3b841cb60bda16976efe04ac669496ef3",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_bayonet.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_bowie.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_bowie.bin",
+                      "size":  1344120,
+                      "sha256":  "e269fa7af908b790b90570ab77b70882ae3c1bafe29fd8eee4d3da4a7aa63eb2",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_bowie.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_bowie.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_bowie.gltf",
+                      "size":  12212,
+                      "sha256":  "16650a13971f601165968aef047693c05a7b578d39a93f5d9cc6240808583098",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_bowie.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_butterfly.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_butterfly.bin",
+                      "size":  889392,
+                      "sha256":  "559208d36a3df8adf4a510962e08804ce640d1af277836a92fff78609ac2faad",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_butterfly.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_butterfly.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_butterfly.gltf",
+                      "size":  22526,
+                      "sha256":  "142a1aa515e12b8163a11617794e0b73146ff048d46454778e298634a8cc27c8",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_butterfly.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_canis.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_canis.bin",
+                      "size":  513024,
+                      "sha256":  "e106baacff002aaf4a8c9aa4537db53b27553bd2b2733db7ddcca0be19156ef0",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_canis.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_canis.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_canis.gltf",
+                      "size":  11964,
+                      "sha256":  "104b44ef8d6afd44f30fcd671a5befaec8352ab163628ccc64db8d812d127387",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_canis.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_cord.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_cord.bin",
+                      "size":  346344,
+                      "sha256":  "fba8f0d17464d3c35e81363039cd3c7f1bce32ff9379dc68b5f9abe0c904d51b",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_cord.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_cord.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_cord.gltf",
+                      "size":  11931,
+                      "sha256":  "59b897dc58b62bce9a5dd97e67280e11d9f7f743d0c78d956fb5271195f4ab94",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_cord.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_css.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_css.bin",
+                      "size":  100176,
+                      "sha256":  "347f1815d082640d7cca3b1b67ddac21987c6fce051a8a22f749be3e4ee6421c",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_css.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_css.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_css.gltf",
+                      "size":  11894,
+                      "sha256":  "fc7bc556c73740b67ffe08276aa7f44b8bfaccdfa10b89fa0d1a6049d1f6ebac",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_css.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_default_ct.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_default_ct.bin",
+                      "size":  408432,
+                      "sha256":  "cfc9723bdad2cb466bc4350b1a0b6a2c137ded449c8943a4b242bc11c1686cc1",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_default_ct.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_default_ct.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_default_ct.gltf",
+                      "size":  11593,
+                      "sha256":  "ec877d99aede011a89c6540c92907779f510b830459a0f0f646704fa35da6094",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_default_ct.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_default_t.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_default_t.bin",
+                      "size":  153408,
+                      "sha256":  "e2a2f17c0c8fbb546059694fc2bbabb4b62674b485cac3ce39164f5659beb24d",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_default_t.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_default_t.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_default_t.gltf",
+                      "size":  11907,
+                      "sha256":  "11509e1a5838243f08ad66646030fb6ddef7aa322fbe1b4fa50ef8ea665fb60f",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_default_t.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_falchion.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_falchion.bin",
+                      "size":  766884,
+                      "sha256":  "ac6efd29c5784301d790f94470579fa9003029fceb8fa5b40c6e3ea88bd6062e",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_falchion.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_falchion.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_falchion.gltf",
+                      "size":  14530,
+                      "sha256":  "cdd07d312603789fb250ef5a3d1a53094448834064f4e2ad5911e55bb38ac5ce",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_falchion.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_flip.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_flip.bin",
+                      "size":  261576,
+                      "sha256":  "ae8d8848e51ccbc1edf09ee39e345df4a64d0a51c25f75206a20de8cd0bdee85",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_flip.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_flip.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_flip.gltf",
+                      "size":  14440,
+                      "sha256":  "5e7d228601335b3e0158c229a4680748580ef9a29db067aa75790a3f62e4b081",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_flip.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_gut.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_gut.bin",
+                      "size":  708312,
+                      "sha256":  "537ad58f0e9a38eeca9156bbe381020c1cf8c6211ce9f009c4e66b985d5e8300",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_gut.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_gut.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_gut.gltf",
+                      "size":  11837,
+                      "sha256":  "5f00d8c450aa1fc77c465dd240e0805ae41e8515921f6043bf25445f3f5cccee",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_gut.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_karambit.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_karambit.bin",
+                      "size":  1048176,
+                      "sha256":  "290b02e2743df08b27600736330163c92acf060b2884d04692ac49785f0911d7",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_karambit.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_karambit.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_karambit.gltf",
+                      "size":  12049,
+                      "sha256":  "2d83bf13e7e3e8cd6e9177260faaccc8c5365dc2505ad1bb8baea35a1ef17221",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_karambit.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_kukri.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_kukri.bin",
+                      "size":  500616,
+                      "sha256":  "c1186c2f35f17226a3d493b5c7debd48e4e7540c10ee40a1b5418ea92de51db7",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_kukri.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_kukri.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_kukri.gltf",
+                      "size":  11853,
+                      "sha256":  "d561d1217047fed4ea6fdd1aab2012c6b5ec890bd60c50b35f04d93ea71f0ef4",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_kukri.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_m9.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_m9.bin",
+                      "size":  821912,
+                      "sha256":  "a798a930275711fe945c01ab2178b240702f790b7b3502e15d3f9e67b4292403",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_m9.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_m9.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_m9.gltf",
+                      "size":  11844,
+                      "sha256":  "c49357aba0bdd6495c3c204c7a8a0fa2272af1a781077a92b44e53f569b9b3cb",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_m9.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_navaja.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_navaja.bin",
+                      "size":  474192,
+                      "sha256":  "f4451a6466bcbe22bd5c03eda9d419ed27de38c663eaf99e3169db2b746153ae",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_navaja.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_navaja.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_navaja.gltf",
+                      "size":  14426,
+                      "sha256":  "0fa07da0ae27091d5237395906d8231523e8b636d4af8d0b77fb39475327ccbf",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_navaja.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_outdoor.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_outdoor.bin",
+                      "size":  994296,
+                      "sha256":  "9f819fa2aa83c98a146e7e8f634d6bc1c8e947dcab0c009f057d01724ed620b3",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_outdoor.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_outdoor.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_outdoor.gltf",
+                      "size":  14661,
+                      "sha256":  "e920c0b7c56f958c5c87df8dd6abff3f898a555a49f524fff26d7b55b44d22e1",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_outdoor.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_push.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_push.bin",
+                      "size":  617592,
+                      "sha256":  "321f60b538a21ef7922cd688f94fa868dab155955a7f141f5523ffad8608befb",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_push.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_push.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_push.gltf",
+                      "size":  16897,
+                      "sha256":  "184e1d2ccf8ac85e16ab225fa9d08cdaf46c8f91a8deea0cb4bd233d38a42e79",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_push.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_skeleton.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_skeleton.bin",
+                      "size":  309000,
+                      "sha256":  "80e3735bb9b53a8f7d91a425829869f321157aeca62b4535a4d04044d8cb9bc9",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_skeleton.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_skeleton.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_skeleton.gltf",
+                      "size":  11997,
+                      "sha256":  "7a260dfc61000fc0afd43eb8f3af7bfa7cb6efdac8c9dadfcd71e10a82aa2e26",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_skeleton.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_stiletto.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_stiletto.bin",
+                      "size":  567588,
+                      "sha256":  "fc2a4c250e49ffb92b913ad8e4c57c6dc59de603904e7dc7c56b892ab47810ff",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_stiletto.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_stiletto.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_stiletto.gltf",
+                      "size":  14320,
+                      "sha256":  "5423adfa593e3ec108d47b13fba8b11cca5a96b7bacf5c0d2f97e1bffe6657d3",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_stiletto.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_tactical.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_tactical.bin",
+                      "size":  1225344,
+                      "sha256":  "66415fcc5b25f7542b799e25c71770d9533625e2a7c2269bba1afcd057e1b595",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_tactical.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_tactical.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_tactical.gltf",
+                      "size":  12121,
+                      "sha256":  "15546890d5051bb5a3d3e9904cfb179015a661f6c5dc807c08a0fb73164882cf",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_tactical.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_talon.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_talon.bin",
+                      "size":  538512,
+                      "sha256":  "13daa385b71e2eef38e7daa35327acec40981ec933f9f1282e616652273310d9",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_talon.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_talon.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_talon.gltf",
+                      "size":  11870,
+                      "sha256":  "3f38f7aa9c4469ab945ddfe2619bc2bf629704b4fead839486b35595ddb874a7",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_talon.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_ursus.bin",
+                      "dest":  "models/weapons/knives/weapon_knife_ursus.bin",
+                      "size":  330900,
+                      "sha256":  "17f3746acf9a11ccdafbac7e7b1189368664159d0de7922b99adffe3c025080c",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_ursus.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/knives/weapon_knife_ursus.gltf",
+                      "dest":  "models/weapons/knives/weapon_knife_ursus.gltf",
+                      "size":  11817,
+                      "sha256":  "5af386fbacac5c666638495fba4ac6ad932af7abf57f6dadee536857b090be21",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_knife_ursus.gltf"
+                  },
+                  {
+                      "path":  "release/models/weapons/zeus/weapon_pist_taser.bin",
+                      "dest":  "models/weapons/zeus/weapon_pist_taser.bin",
+                      "size":  640652,
+                      "sha256":  "4d9946d38e4d2f7d531c64be1f1e07f31180630deae877973387bcfd8e79f509",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_taser.bin"
+                  },
+                  {
+                      "path":  "release/models/weapons/zeus/weapon_pist_taser.gltf",
+                      "dest":  "models/weapons/zeus/weapon_pist_taser.gltf",
+                      "size":  29305,
+                      "sha256":  "ca152303728083f7ab92250febc7ea9324c09188d9ab75aedddcd1e0d32a31c7",
+                      "url":  "https://github.com/BOT-Gurt/itamiv3assets/releases/download/assets-v2/weapon_pist_taser.gltf"
                   }
               ]
 }
